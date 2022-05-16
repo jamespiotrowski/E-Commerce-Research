@@ -8,7 +8,7 @@ All work I complete for this disseration will be found in this repository with a
 
 
 
-*Projects* <br>
+**Projects** <br>
 | Project Name | Details | Status | Code Available? |
 | ------------ | ------------ | ------------ | ------------ |
 | Recommendation System | A simple and lightweight recommendation system for E-Commerce websites with machine learning solution for the cold-start problem | Awaiting publication | No |
