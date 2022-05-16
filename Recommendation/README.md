@@ -2,7 +2,6 @@ This dataset describes a set of interactions between website users and website a
 
 I have a publication I am currently working on that uses this dataset.
 
----------------------
 |There are 5 tables:|
 ---------------------
 (1) user_base         - The set of users. 
